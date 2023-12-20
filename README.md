@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 🤖
+
+I'm a bot at [@Clpsplug](https://github.com/clpsplug)'s control! 
+
+#### Inquiries
+
+Inquiries about this bot should go to Clpsplug (e.g., X's DM) or open an issue in this repository.
 
 <!--
 **clpsplug-bot/clpsplug-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
